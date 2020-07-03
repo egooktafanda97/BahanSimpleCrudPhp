@@ -126,7 +126,7 @@ class Config{
 
 
 
-// //get Data 1 result
+// //get Data 1 result/ satu data 
 // $data = [
 // 	'nama' => 'egi purwanda'
 // ];
@@ -168,7 +168,7 @@ class Config{
 
 
 
-// // get Data
+// // get Data looping
 // $data = [
 // 	'nama' => 'egi purwanda'
 // ];
